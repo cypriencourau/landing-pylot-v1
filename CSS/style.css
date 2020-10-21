@@ -1,0 +1,25 @@
+/*Importing Google Fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins");
+
+
+/*Importing all components file*/
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/container.css");
+@import url("Components/banner.css");
+@import url("Components/card.css");
+
+/* General style rules for fonts & colors */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+
+
+
